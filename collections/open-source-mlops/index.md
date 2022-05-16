@@ -32,6 +32,7 @@ items:
  - SchedMD/slurm
  - ray-project/ray
  - tensorflow/tensorboard
+ - orchest/orchest
 display_name: Open source MLOps
 created_by: ManeSah
 image: open-source-mlops.png
